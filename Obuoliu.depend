@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706028238 source:c:\c++ projektai\obuoliu\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
